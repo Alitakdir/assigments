@@ -1,0 +1,5 @@
+list of html 5 features?
+
+1)media support: it gives us media support in improved way by allowing video and audio tag without  the need of plugins
+2)canva element : this allows us to create graphics within the web page.
+3)structural elements:it introduce new elements like header,footer,nav and may more too to give a structure to our web page

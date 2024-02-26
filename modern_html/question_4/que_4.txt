@@ -1,0 +1,8 @@
+QUE-4
+list any 3 ways which help us in improving the accessibility of HTML?
+1) use semantic elements: this will help in inprovimg asseciblity to website by providing a meaningful structure to our content 
+like <header>, <nav>, <footer>,<article> and many more.
+
+2) use of alt text for image: by using alt text user who can ot see image so by screen readingb he could easily understand and get to know or can take idea about what image gonna telling is.
+
+3)use color with care: color paly a major role for people with issues in sight, while using a low or light color pallete will not put pressure to reader with color blindness or will diabilites.

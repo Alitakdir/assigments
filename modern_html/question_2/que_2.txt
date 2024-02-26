@@ -1,0 +1,12 @@
+QUE-2.
+ What are HTML Entities?
+ List out 5 commonly used HTML entities?
+ANS- html entities are special characters with specific  meaning in html.
+this codes are starting with (ampersand & ) and ends with semi colon;)
+
+heare are 5 commonly used html entities are as follows:
+1)< (less than) = &lt;
+2)> (greather than) = &gt;
+3)&nbsp; this for non breaking space
+4)©copyright	&copy; this uded for copyright symbol
+5)®trademark	&reg; this used for trade mark symbol
