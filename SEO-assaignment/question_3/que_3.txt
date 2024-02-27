@@ -1,0 +1,12 @@
+Q3. What are the Benefits of Using Meta Tags?
+ANS- 
+1)SEO-mata tag such as discription and keyword for improving web page availibily.
+2)character encoding-this meta tag specify character encoding such as are you wanna use UTF 8 or UTF 16.
+3)VIWPORT-this tag is crucial for responsive web design.
+
+
+
+
+
+
+

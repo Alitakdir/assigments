@@ -1,0 +1,5 @@
+QUE-1
+What SEO and explain the importance of SEO?
+ANS-seo standts for search engine optimization ,
+the main purpose of seo is for ranking our website to get higher in search engine 
+like google, yahoo and etc. 
